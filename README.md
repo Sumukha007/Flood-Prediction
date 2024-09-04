@@ -1,2 +1,1 @@
-# Flood-Prediction
-Prediction of floods using KNN classification algorithm
+This project involves predicting flood conditions in Bengaluru based on historical rainfall data using the K-Nearest Neighbors (KNN) classification algorithm. The dataset spans from 1900 to 2023 and includes monthly and annual rainfall measurements along with indicators for El Niño and La Niña events. The goal is to build a predictive model to assess potential flood risks.
